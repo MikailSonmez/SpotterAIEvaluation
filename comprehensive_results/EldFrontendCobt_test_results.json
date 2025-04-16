@@ -1,0 +1,44 @@
+{
+  "name": "EldFrontendCobt",
+  "url": "https://eld-frontend-cobt.vercel.app/",
+  "date": "2025-04-16T09:15:14.736Z",
+  "status": "complete",
+  "loadSuccess": true,
+  "interactiveElements": {
+    "buttons": 2,
+    "inputFields": 6,
+    "dropdowns": 0,
+    "checkboxes": 0,
+    "radioButtons": 0,
+    "links": 5
+  },
+  "accessibilityIssues": 0,
+  "formSubmission": true,
+  "navigationTested": false,
+  "modalsTested": false,
+  "loginTested": false,
+  "errors": [],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\EldFrontendCobt_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\EldFrontendCobt_final.png"
+  ],
+  "notes": [
+    "Website loaded successfully",
+    "Button 1 (Submit) clicked successfully",
+    "Button 2 (Toggle attribution) clicked successfully",
+    "Link 1 (© Mapbox) opened new tab: https://www.mapbox.com/about/maps",
+    "Link 2 (© OpenStreetMap) opened new tab: https://www.openstreetmap.org/copyright/",
+    "Link 3 (Improve this map) opened new tab: https://labs.mapbox.com/contribute/#/?owner=mapbox&id=satellite-streets-v12&access_token=pk.eyJ1IjoibWFrZXJtMSIsImEiOiJjbTdrbDU2cTcwMW16MmxxcW1rMjNocGg5In0.MWlblvppyNo8fTZwAEjZig&utm_source=https%3A%2F%2Feld-frontend-cobt.vercel.app%2F&utm_medium=attribution_link&utm_campaign=referrer&l=3%2F39.83%2F-98.58",
+    "Link 4 (© Maxar) opened new tab: https://www.maxar.com/",
+    "Link 5 (Mapbox homepage) opened new tab: https://www.mapbox.com/",
+    "Text input 1 filled with: Test input",
+    "Text input 2 filled with: ELD compliance check",
+    "Text input 3 filled with: Driver log verification",
+    "Text input 4 filled with: Hours of Service test",
+    "Text input 5 filled with: Route planning test",
+    "Number input 1 filled with: 8",
+    "Form submitted successfully",
+    "No navigation elements found",
+    "No login functionality detected"
+  ]
+}

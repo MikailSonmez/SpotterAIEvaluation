@@ -1,0 +1,78 @@
+{
+  "website": "spotter.lavandesn.com",
+  "url": "https://spotter.lavandesn.com/",
+  "status": "complete",
+  "finalScore": 7,
+  "error": null,
+  "notes": [
+    "Website loaded successfully",
+    "All required location input fields found",
+    "Hours/cycle input field found",
+    "Clear input labels present",
+    "Partial responsive design detected",
+    "Lacks professional UI elements",
+    "Balanced color scheme with appropriate number of colors",
+    "Layout quality score: 2/3",
+    "No clear navigation found",
+    "Form validation attributes present",
+    "User feedback messages present",
+    "Semantic HTML elements used",
+    "ARIA attributes present",
+    "Focus styles present on interactive elements",
+    "Form submitted successfully",
+    "Route map found in results",
+    "ELD logs found in results",
+    "No console errors detected",
+    "Form validation present",
+    "No functional issues detected with interactive elements",
+    "No significant visual glitches detected",
+    "HOS visualization present",
+    "No status changes displayed",
+    "No drive time calculations found",
+    "No breaks representation found"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\results\\spotter.lavandesn.com_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\results\\spotter.lavandesn.com_mobile.png",
+    "C:\\Users\\mikai\\SpotterAI\\results\\spotter.lavandesn.com_results.png"
+  ],
+  "scores": {
+    "eldAccuracy": 3,
+    "requiredFeatures": 10,
+    "uiAesthetics": 5,
+    "uxIntuitiveness": 7,
+    "bugs": 10
+  },
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosVisualization": 3,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0
+    },
+    "requiredFeatures": {
+      "locationInputs": 2,
+      "hoursInputs": 2,
+      "routeMap": 3,
+      "eldLogs": 3
+    },
+    "uiAesthetics": {
+      "professionalDesign": 0,
+      "colorScheme": 2,
+      "layout": 2,
+      "responsiveDesign": 1
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "formLabels": 2,
+      "userFeedback": 2,
+      "accessibility": 3
+    },
+    "bugs": {
+      "consoleErrors": 3,
+      "functionalIssues": 3,
+      "formValidation": 2,
+      "visualGlitches": 2
+    }
+  }
+}

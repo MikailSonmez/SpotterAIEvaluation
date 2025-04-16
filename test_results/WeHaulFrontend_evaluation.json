@@ -1,0 +1,31 @@
+{
+  "website": "WeHaulFrontend",
+  "url": "https://we-haul-frontend.vercel.app/trips",
+  "scores": {
+    "ui": 1,
+    "ux": 1,
+    "bugs": 5,
+    "total": 2.3333333333333335
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Missing some required input fields",
+    "Some input labels missing or unclear",
+    "Insufficient input fields to complete form",
+    "Design lacks style consistency",
+    "Professional UI elements score: 1/2",
+    "Navigation elements found",
+    "No help elements found",
+    "No console errors detected"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\WeHaulFrontend_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\WeHaulFrontend_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 0,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 1,
+  "uiAesthetics": 1,
+  "bugs": 5
+}

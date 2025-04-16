@@ -1,0 +1,88 @@
+=== WEBSITE EVALUATION SUMMARY REPORT ===
+
+Date: 2025-04-15T21-48-31.725Z
+Total websites evaluated: 12
+Successful evaluations: 11
+Failed evaluations: 1
+
+=== WEBSITE RANKINGS ===
+
+1. frontend-nine-phi-12.vercel.app - Final Score: 3.2/10
+   URL: https://frontend-nine-phi-12.vercel.app/
+   UI: 1/10 | UX: 2/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+2. tripapp-ydoc.onrender.com - Final Score: 3.2/10
+   URL: https://tripapp-ydoc.onrender.com
+   UI: 2/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+3. spotter.lavandesn.com - Final Score: 3/10
+   URL: https://spotter.lavandesn.com/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+4. spotter-ai-logbook-react-frontend.vercel.app - Final Score: 3/10
+   URL: https://spotter-ai-logbook-react-frontend.vercel.app
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+5. driver-logbook.vercel.app - Final Score: 3/10
+   URL: https://driver-logbook.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+6. trip-planning-logging.netlify.app - Final Score: 3/10
+   URL: https://trip-planning-logging.netlify.app/
+   UI: 2/10 | UX: 0/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+7. eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app - Final Score: 2.6/10
+   URL: https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/
+   UI: 1/10 | UX: 0/10 | Bugs: 10/10
+   Features: 2/10 | ELD: 0/10
+
+8. trips-frontend-dusky.vercel.app - Final Score: 2.4/10
+   URL: https://trips-frontend-dusky.vercel.app
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+9. tracking-user-app.netlify.app - Final Score: 2.2/10
+   URL: https://tracking-user-app.netlify.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 8/10
+   Features: 1/10 | ELD: 0/10
+
+10. tripplanner-frontend-production.up.railway.app - Final Score: 2.2/10
+   URL: https://tripplanner-frontend-production.up.railway.app/
+   UI: 3/10 | UX: 0/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 0/10
+
+11. eld-client.onrender.com - Final Score: 1.8/10
+   URL: https://eld-client.onrender.com
+   UI: 1/10 | UX: 0/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 0/10
+
+=== AVERAGE SCORES ===
+
+Overall Average: 2.7/10
+UI Aesthetics Average: 1.4/10
+UX Intuitiveness Average: 0.7/10
+Bug-Free Score Average: 9.5/10
+Required Features Average: 1.9/10
+ELD Accuracy Average: 0.0/10
+
+=== CATEGORY WINNERS ===
+
+Best UI Design: tripplanner-frontend-production.up.railway.app (3/10)
+Best UX Design: frontend-nine-phi-12.vercel.app (2/10)
+Most Bug-Free: trips-frontend-dusky.vercel.app (10/10)
+Most Complete Features: trip-planning-logging.netlify.app (3/10)
+Best ELD Implementation: eld-client.onrender.com (0/10)
+
+=== FAILED EVALUATIONS ===
+
+eldlog.duckdns.org (http://eldlog.duckdns.org): error
+   Error: Error during evaluation: page.goto: net::ERR_NAME_NOT_RESOLVED at http://eldlog.duckdns.org/
+Call log:
+[2m  - navigating to "http://eldlog.duckdns.org/", waiting until "load"[22m
+

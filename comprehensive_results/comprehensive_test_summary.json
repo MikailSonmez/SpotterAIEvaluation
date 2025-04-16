@@ -1,0 +1,400 @@
+{
+  "totalWebsites": 30,
+  "successfulTests": 30,
+  "failedTests": 0,
+  "startTime": "2025-04-16T09:11:17.757Z",
+  "endTime": "2025-04-16T09:20:17.145Z",
+  "testsCompleted": [
+    {
+      "name": "SpotterLavandesn",
+      "url": "https://spotter.lavandesn.com/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "TripsFrontend",
+      "url": "https://trips-frontend-dusky.vercel.app",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 3
+      }
+    },
+    {
+      "name": "EldClient",
+      "url": "https://eld-client.onrender.com",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 4
+      }
+    },
+    {
+      "name": "EldLogApp",
+      "url": "https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 3,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 4
+      }
+    },
+    {
+      "name": "TrackingUserApp",
+      "url": "https://tracking-user-app.netlify.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 13,
+        "inputFields": 1,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 2,
+        "links": 4
+      }
+    },
+    {
+      "name": "FrontendNine",
+      "url": "https://frontend-nine-phi-12.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 2,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 2
+      }
+    },
+    {
+      "name": "TripappYdoc",
+      "url": "https://tripapp-ydoc.onrender.com",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "TripplannerFrontend",
+      "url": "https://tripplanner-frontend-production.up.railway.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 2
+      }
+    },
+    {
+      "name": "SpotterAiLogbook",
+      "url": "https://spotter-ai-logbook-react-frontend.vercel.app",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 5,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "DriverLogbook",
+      "url": "https://driver-logbook.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 8,
+        "inputFields": 21,
+        "dropdowns": 1,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "TripPlanningLogging",
+      "url": "https://trip-planning-logging.netlify.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "EldLog",
+      "url": "http://eldlog.duckdns.org",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 2,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "RouteELDTracker",
+      "url": "https://route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 5,
+        "inputFields": 4,
+        "dropdowns": 3,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 1
+      }
+    },
+    {
+      "name": "TrajectSpotter",
+      "url": "https://trajectspotterfrontend.onrender.com",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "EldFrontendCobt",
+      "url": "https://eld-frontend-cobt.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 2,
+        "inputFields": 6,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 5
+      }
+    },
+    {
+      "name": "TripplannerMu",
+      "url": "https://tripplanner-mu.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 3,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "TripLogger",
+      "url": "https://trip-logger-jet.vercel.app",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 3,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 16
+      }
+    },
+    {
+      "name": "EldTripPlanner",
+      "url": "https://eld-trip-planner-frontend.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 1
+      }
+    },
+    {
+      "name": "SpotterFront",
+      "url": "https://spotter-front-git-master-pbnjaays-projects.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 4,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 3
+      }
+    },
+    {
+      "name": "TrackDrivers",
+      "url": "https://track-drivers.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "TruckLogbook",
+      "url": "https://truck-logbook.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 4
+      }
+    },
+    {
+      "name": "TripPlannerFrontend",
+      "url": "https://trip-planner-frontend-tau.vercel.app",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 3,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 4
+      }
+    },
+    {
+      "name": "EldClientVercel",
+      "url": "https://eld-client.vercel.app",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 12
+      }
+    },
+    {
+      "name": "WeHaulFrontend",
+      "url": "https://we-haul-frontend.vercel.app/trips",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 6
+      }
+    },
+    {
+      "name": "EldGenerator",
+      "url": "https://eld-generator.netlify.app",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "TripPlannerYphs",
+      "url": "https://trip-planner-yphs.onrender.com/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 1
+      }
+    },
+    {
+      "name": "EldFrontendSand",
+      "url": "https://eld-frontend-sand.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 10,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "EldTripTracker",
+      "url": "https://eld-trip-tracker.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 1,
+        "inputFields": 4,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 0
+      }
+    },
+    {
+      "name": "EldTripPlannerApp",
+      "url": "https://eld-trip-planner.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 2,
+        "inputFields": 2,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 2
+      }
+    },
+    {
+      "name": "TripPlannerAppGray",
+      "url": "https://trip-planner-app-gray.vercel.app/",
+      "status": "complete",
+      "interactiveElements": {
+        "buttons": 0,
+        "inputFields": 0,
+        "dropdowns": 0,
+        "checkboxes": 0,
+        "radioButtons": 0,
+        "links": 3
+      }
+    }
+  ],
+  "totalDuration": 539.388
+}

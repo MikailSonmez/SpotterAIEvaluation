@@ -1,0 +1,93 @@
+=== WEBSITE EVALUATION SUMMARY REPORT ===
+
+Date: 2025-04-16T09:27:37.195Z
+Total websites evaluated: 30
+Successful evaluations: 30
+Failed evaluations: 0
+Total duration: 361.503 seconds
+
+=== TOP 10 WEBSITES ===
+
+1. RouteELDTracker - Final Score: 4.5/10
+   URL: https://route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app/
+   UI Score: 2/10 | UX Score: 2/10 | Bugs Score: 10/10 | Features Score: 0/10
+
+2. TrajectSpotter - Final Score: 4.1/10
+   URL: https://trajectspotterfrontend.onrender.com
+   UI Score: 3/10 | UX Score: 1/10 | Bugs Score: 10/10 | Features Score: 0/10
+
+3. DriverLogbook - Final Score: 3.8/10
+   URL: https://driver-logbook.vercel.app/
+   UI Score: 2/10 | UX Score: 1/10 | Bugs Score: 10/10 | Features Score: 2/10
+
+4. EldGenerator - Final Score: 3.8/10
+   URL: https://eld-generator.netlify.app
+   UI Score: 2/10 | UX Score: 1/10 | Bugs Score: 10/10 | Features Score: 2/10
+
+5. EldTripTracker - Final Score: 3.8/10
+   URL: https://eld-trip-tracker.vercel.app/
+   UI Score: 3/10 | UX Score: 2/10 | Bugs Score: 10/10 | Features Score: 2/10
+
+6. SpotterLavandesn - Final Score: 3.6/10
+   URL: https://spotter.lavandesn.com/
+   UI Score: 3/10 | UX Score: 1/10 | Bugs Score: 10/10 | Features Score: 2/10
+
+7. TripappYdoc - Final Score: 3.6/10
+   URL: https://tripapp-ydoc.onrender.com
+   UI Score: 3/10 | UX Score: 1/10 | Bugs Score: 10/10 | Features Score: 2/10
+
+8. TripplannerMu - Final Score: 3.6/10
+   URL: https://tripplanner-mu.vercel.app/
+   UI Score: 3/10 | UX Score: 1/10 | Bugs Score: 10/10 | Features Score: 2/10
+
+9. EldLogApp - Final Score: 3.5/10
+   URL: https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/
+   UI Score: 3/10 | UX Score: 2/10 | Bugs Score: 10/10 | Features Score: 0/10
+
+10. TrackingUserApp - Final Score: 3.5/10
+   URL: https://tracking-user-app.netlify.app/
+   UI Score: 2/10 | UX Score: 1/10 | Bugs Score: 7/10 | Features Score: 4/10
+
+=== AVERAGE SCORES ===
+
+Overall Average: 3.2/10
+UI Aesthetics Average: 2.4/10
+UX Intuitiveness Average: 1.0/10
+Bug-Free Score Average: 9.1/10
+Required Features Average: 1.2/10
+
+=== COMPLETE RANKING ===
+
+1. RouteELDTracker (4.5/10)
+2. TrajectSpotter (4.1/10)
+3. DriverLogbook (3.8/10)
+4. EldGenerator (3.8/10)
+5. EldTripTracker (3.8/10)
+6. SpotterLavandesn (3.6/10)
+7. TripappYdoc (3.6/10)
+8. TripplannerMu (3.6/10)
+9. EldLogApp (3.5/10)
+10. TrackingUserApp (3.5/10)
+11. SpotterFront (3.5/10)
+12. TrackDrivers (3.5/10)
+13. TripPlannerFrontend (3.4/10)
+14. EldLog (3.3/10)
+15. EldFrontendCobt (3.3/10)
+16. EldFrontendSand (3.3/10)
+17. EldTripPlannerApp (3.3/10)
+18. SpotterAiLogbook (3.2/10)
+19. FrontendNine (3.1/10)
+20. TripplannerFrontend (3.0/10)
+21. TripPlanningLogging (2.9/10)
+22. TruckLogbook (2.9/10)
+23. EldTripPlanner (2.8/10)
+24. EldClientVercel (2.8/10)
+25. TripsFrontend (2.7/10)
+26. EldClient (2.6/10)
+27. TripPlannerAppGray (2.6/10)
+28. TripLogger (2.5/10)
+29. WeHaulFrontend (2.4/10)
+30. TripPlannerYphs (2.4/10)
+
+=== FAILED EVALUATIONS ===
+

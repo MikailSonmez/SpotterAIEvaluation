@@ -1,0 +1,29 @@
+{
+  "name": "TripplannerMu",
+  "url": "https://tripplanner-mu.vercel.app/",
+  "notes": [
+    "Professional UI: Logo: No, Headings: Yes, Good contrast: Yes",
+    "Visual consistency: Consistent fonts: Yes, Consistent colors: Yes",
+    "Responsive design: Site properly adjusts to different viewport sizes",
+    "Navigation: Navigation menu: No, CTAs: Yes, Location indicators: No",
+    "Feedback and help: Error messages: Yes, Help text: No, Support/Contact: No",
+    "Authentication system: Not found",
+    "Search functionality: Not found",
+    "Contact/Support options: Not found",
+    "Mobile friendliness: Good",
+    "Legal information: Not found",
+    "ELD logs found on the page"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\results\\TripplannerMu_initial.png"
+  ],
+  "status": "complete",
+  "scores": {
+    "uiAesthetics": 3,
+    "uxIntuitiveness": 1,
+    "bugs": 10,
+    "requiredFeatures": 2,
+    "eldAccuracy": 2,
+    "finalScore": 3.6
+  }
+}

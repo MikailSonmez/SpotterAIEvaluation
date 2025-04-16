@@ -1,0 +1,74 @@
+{
+  "website": "eld-frontend-cobt.vercel.app",
+  "url": "https://eld-frontend-cobt.vercel.app/",
+  "scores": {
+    "ui": 3,
+    "ux": 4,
+    "bugs": 7,
+    "eldAccuracy": 0,
+    "requiredFeatures": 2,
+    "total": 3.2
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "Insufficient input fields to complete form",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Too many colors used in design",
+    "Professional UI elements score: 0/4",
+    "Form validation present",
+    "No clear navigation found",
+    "Help elements found",
+    "Some visual glitches detected",
+    "No console errors detected"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-frontend-cobt.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-frontend-cobt.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 1,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 2,
+  "uiAesthetics": 0,
+  "bugs": 5,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 0
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 0,
+      "total": 2
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 1,
+      "layout": 0,
+      "responsiveDesign": 2,
+      "total": 3
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 1,
+      "predictability": 1,
+      "feedback": 2,
+      "total": 4
+    },
+    "bugs": {
+      "formValidation": 2,
+      "calculationErrors": 2,
+      "visualGlitches": 1,
+      "functionalProblems": 2,
+      "total": 7
+    }
+  }
+}

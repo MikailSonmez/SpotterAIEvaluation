@@ -1,0 +1,179 @@
+=== WEBSITE EVALUATION SUMMARY REPORT ===
+
+Date: 2025-04-16T08-34-51.248Z
+Total websites evaluated: 30
+Successful evaluations: 28
+Failed evaluations: 2
+
+=== WEBSITE RANKINGS ===
+
+1. eld-trip-planner-frontend.vercel.app - Final Score: 3.4/10
+   URL: https://eld-trip-planner-frontend.vercel.app/
+   UI: 3/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+2. eld-frontend-sand.vercel.app - Final Score: 3.4/10
+   URL: https://eld-frontend-sand.vercel.app/
+   UI: 3/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+3. frontend-nine-phi-12.vercel.app - Final Score: 3.2/10
+   URL: https://frontend-nine-phi-12.vercel.app/
+   UI: 1/10 | UX: 2/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+4. tripapp-ydoc.onrender.com - Final Score: 3.2/10
+   URL: https://tripapp-ydoc.onrender.com
+   UI: 2/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+5. spotter.lavandesn.com - Final Score: 3/10
+   URL: https://spotter.lavandesn.com/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+6. spotter-ai-logbook-react-frontend.vercel.app - Final Score: 3/10
+   URL: https://spotter-ai-logbook-react-frontend.vercel.app
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+7. driver-logbook.vercel.app - Final Score: 3/10
+   URL: https://driver-logbook.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+8. trip-planning-logging.netlify.app - Final Score: 3/10
+   URL: https://trip-planning-logging.netlify.app/
+   UI: 2/10 | UX: 0/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+9. route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app - Final Score: 3/10
+   URL: https://route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+10. eld-frontend-cobt.vercel.app - Final Score: 3/10
+   URL: https://eld-frontend-cobt.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+11. tripplanner-mu.vercel.app - Final Score: 3/10
+   URL: https://tripplanner-mu.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+12. spotter-front-git-master-pbnjaays-projects.vercel.app - Final Score: 3/10
+   URL: https://spotter-front-git-master-pbnjaays-projects.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+13. trip-planner-frontend-tau.vercel.app - Final Score: 3/10
+   URL: https://trip-planner-frontend-tau.vercel.app
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+14. eld-generator.netlify.app - Final Score: 3/10
+   URL: https://eld-generator.netlify.app
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 3/10 | ELD: 0/10
+
+15. eld-trip-tracker.vercel.app - Final Score: 2.8/10
+   URL: https://eld-trip-tracker.vercel.app/
+   UI: 2/10 | UX: 1/10 | Bugs: 8/10
+   Features: 3/10 | ELD: 0/10
+
+16. eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app - Final Score: 2.6/10
+   URL: https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/
+   UI: 1/10 | UX: 0/10 | Bugs: 10/10
+   Features: 2/10 | ELD: 0/10
+
+17. track-drivers.vercel.app - Final Score: 2.6/10
+   URL: https://track-drivers.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 8/10
+   Features: 3/10 | ELD: 0/10
+
+18. eld-client.vercel.app - Final Score: 2.6/10
+   URL: https://eld-client.vercel.app
+   UI: 3/10 | UX: 0/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+19. we-haul-frontend.vercel.app_trips - Final Score: 2.6/10
+   URL: https://we-haul-frontend.vercel.app/trips
+   UI: 3/10 | UX: 0/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+20. trips-frontend-dusky.vercel.app - Final Score: 2.4/10
+   URL: https://trips-frontend-dusky.vercel.app
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+21. truck-logbook.vercel.app - Final Score: 2.4/10
+   URL: https://truck-logbook.vercel.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+22. trip-planner-app-gray.vercel.app - Final Score: 2.4/10
+   URL: https://trip-planner-app-gray.vercel.app/
+   UI: 2/10 | UX: 0/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+23. tracking-user-app.netlify.app - Final Score: 2.2/10
+   URL: https://tracking-user-app.netlify.app/
+   UI: 1/10 | UX: 1/10 | Bugs: 8/10
+   Features: 1/10 | ELD: 0/10
+
+24. tripplanner-frontend-production.up.railway.app - Final Score: 2.2/10
+   URL: https://tripplanner-frontend-production.up.railway.app/
+   UI: 3/10 | UX: 0/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 0/10
+
+25. eld-trip-planner.vercel.app - Final Score: 2.2/10
+   URL: https://eld-trip-planner.vercel.app/
+   UI: 1/10 | UX: 2/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 0/10
+
+26. trip-planner-yphs.onrender.com - Final Score: 2/10
+   URL: https://trip-planner-yphs.onrender.com/
+   UI: 2/10 | UX: 0/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 0/10
+
+27. trip-logger-jet.vercel.app - Final Score: 1.8/10
+   URL: https://trip-logger-jet.vercel.app
+   UI: 1/10 | UX: 0/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 0/10
+
+28. eld-client.onrender.com - Final Score: 1.2/10
+   URL: https://eld-client.onrender.com
+   UI: 1/10 | UX: 0/10 | Bugs: 5/10
+   Features: 0/10 | ELD: 0/10
+
+=== AVERAGE SCORES ===
+
+Overall Average: 2.7/10
+UI Aesthetics Average: 1.5/10
+UX Intuitiveness Average: 0.8/10
+Bug-Free Score Average: 9.3/10
+Required Features Average: 1.8/10
+ELD Accuracy Average: 0.0/10
+
+=== CATEGORY WINNERS ===
+
+Best UI Design: tripplanner-frontend-production.up.railway.app (3/10)
+Best UX Design: eld-trip-planner.vercel.app (2/10)
+Most Bug-Free: trip-planner-app-gray.vercel.app (10/10)
+Most Complete Features: track-drivers.vercel.app (3/10)
+Best ELD Implementation: eld-client.onrender.com (0/10)
+
+=== FAILED EVALUATIONS ===
+
+eldlog.duckdns.org (http://eldlog.duckdns.org): error
+   Error: Error during evaluation: page.goto: net::ERR_NAME_NOT_RESOLVED at http://eldlog.duckdns.org/
+Call log:
+[2m  - navigating to "http://eldlog.duckdns.org/", waiting until "load"[22m
+
+
+trajectspotterfrontend.onrender.com (https://trajectspotterfrontend.onrender.com): error
+   Error: Error during evaluation: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://trajectspotterfrontend.onrender.com/", waiting until "load"[22m
+

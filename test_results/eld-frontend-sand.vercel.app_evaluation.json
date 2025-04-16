@@ -1,0 +1,76 @@
+{
+  "website": "eld-frontend-sand.vercel.app",
+  "url": "https://eld-frontend-sand.vercel.app/",
+  "scores": {
+    "ui": 6,
+    "ux": 2,
+    "bugs": 5,
+    "eldAccuracy": 1,
+    "requiredFeatures": 3,
+    "total": 3.4
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "No map found in results",
+    "ELD logs found",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Good color scheme with appropriate number of colors",
+    "Professional UI elements score: 2/4",
+    "No form validation found",
+    "No clear navigation found",
+    "No help elements found",
+    "Some visual glitches detected",
+    "No console errors detected"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-frontend-sand.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-frontend-sand.vercel.app_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-frontend-sand.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 1,
+  "eldAccuracy": 2,
+  "uxIntuitiveness": 0,
+  "uiAesthetics": 2,
+  "bugs": 5,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 1,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 1
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 1,
+      "total": 3
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 2,
+      "layout": 2,
+      "responsiveDesign": 2,
+      "total": 6
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 1,
+      "predictability": 1,
+      "feedback": 0,
+      "total": 2
+    },
+    "bugs": {
+      "formValidation": 0,
+      "calculationErrors": 2,
+      "visualGlitches": 1,
+      "functionalProblems": 2,
+      "total": 5
+    }
+  }
+}

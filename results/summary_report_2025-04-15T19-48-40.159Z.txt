@@ -1,0 +1,89 @@
+=== WEBSITE EVALUATION SUMMARY REPORT ===
+
+Date: 2025-04-15T19:48:40.159Z
+Total websites evaluated: 12
+Successful evaluations: 11
+Failed evaluations: 1
+
+=== WEBSITE RANKINGS ===
+
+1. DriverLogbook - Final Score: 3.8/10
+   URL: https://driver-logbook.vercel.app/
+   UI: 2/10 | UX: 1/10 | Bugs: 10/10
+   Features: 2/10 | ELD: 4/10
+
+2. SpotterLavandesn - Final Score: 3.6/10
+   URL: https://spotter.lavandesn.com/
+   UI: 3/10 | UX: 1/10 | Bugs: 10/10
+   Features: 2/10 | ELD: 2/10
+
+3. TripappYdoc - Final Score: 3.6/10
+   URL: https://tripapp-ydoc.onrender.com
+   UI: 3/10 | UX: 1/10 | Bugs: 10/10
+   Features: 2/10 | ELD: 2/10
+
+4. EldLogApp - Final Score: 3.5/10
+   URL: https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/
+   UI: 3/10 | UX: 2/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 2/10
+
+5. TrackingUserApp - Final Score: 3.5/10
+   URL: https://tracking-user-app.netlify.app/
+   UI: 2/10 | UX: 1/10 | Bugs: 7/10
+   Features: 4/10 | ELD: 4/10
+
+6. SpotterAiLogbook - Final Score: 3.2/10
+   URL: https://spotter-ai-logbook-react-frontend.vercel.app
+   UI: 3/10 | UX: 1/10 | Bugs: 10/10
+   Features: 2/10 | ELD: 0/10
+
+7. FrontendNine - Final Score: 3.1/10
+   URL: https://frontend-nine-phi-12.vercel.app/
+   UI: 2/10 | UX: 1/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 4/10
+
+8. TripplannerFrontend - Final Score: 3.0/10
+   URL: https://tripplanner-frontend-production.up.railway.app/
+   UI: 3/10 | UX: 0/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 2/10
+
+9. TripPlanningLogging - Final Score: 2.9/10
+   URL: https://trip-planning-logging.netlify.app/
+   UI: 3/10 | UX: 1/10 | Bugs: 10/10
+   Features: 0/10 | ELD: 0/10
+
+10. TripsFrontend - Final Score: 2.7/10
+   URL: https://trips-frontend-dusky.vercel.app
+   UI: 2/10 | UX: 1/10 | Bugs: 8/10
+   Features: 0/10 | ELD: 2/10
+
+11. EldClient - Final Score: 2.4/10
+   URL: https://eld-client.onrender.com
+   UI: 2/10 | UX: 0/10 | Bugs: 5/10
+   Features: 4/10 | ELD: 2/10
+
+=== AVERAGE SCORES ===
+
+Overall Average: 3.2/10
+UI Aesthetics Average: 2.5/10
+UX Intuitiveness Average: 0.9/10
+Bug-Free Score Average: 8.9/10
+Required Features Average: 1.5/10
+ELD Accuracy Average: 2.2/10
+
+=== CATEGORY WINNERS ===
+
+Best UI Design: SpotterLavandesn (3/10)
+Best UX Design: EldLogApp (2/10)
+Most Bug-Free: DriverLogbook (10/10)
+Most Complete Features: TrackingUserApp (4/10)
+Best ELD Implementation: DriverLogbook (4/10)
+
+=== FAILED EVALUATIONS ===
+
+EldLog (http://eldlog.duckdns.org): error
+   Error: Fatal error during evaluation: page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+[2m  - navigating to "http://eldlog.duckdns.org/", waiting until "load"[22m
+
+

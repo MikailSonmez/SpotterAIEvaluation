@@ -1,0 +1,13 @@
+Name,URL,Status,Final Score,UI Score,UX Score,Bugs Score,Features Score,ELD Score
+"DriverLogbook","https://driver-logbook.vercel.app/","complete",3.8,2,1,10,2,4
+"EldClient","https://eld-client.onrender.com","complete",2.4,2,0,5,4,2
+"EldLogApp","https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/","complete",3.5,3,2,10,0,2
+"EldLog","http://eldlog.duckdns.org","error",N/A,N/A,N/A,N/A,N/A,N/A
+"FrontendNine","https://frontend-nine-phi-12.vercel.app/","complete",3.1,2,1,8,0,4
+"SpotterAiLogbook","https://spotter-ai-logbook-react-frontend.vercel.app","complete",3.2,3,1,10,2,0
+"SpotterLavandesn","https://spotter.lavandesn.com/","complete",3.6,3,1,10,2,2
+"TrackingUserApp","https://tracking-user-app.netlify.app/","complete",3.5,2,1,7,4,4
+"TripappYdoc","https://tripapp-ydoc.onrender.com","complete",3.6,3,1,10,2,2
+"TripplannerFrontend","https://tripplanner-frontend-production.up.railway.app/","complete",3,3,0,10,0,2
+"TripPlanningLogging","https://trip-planning-logging.netlify.app/","complete",2.9,3,1,10,0,0
+"TripsFrontend","https://trips-frontend-dusky.vercel.app","complete",2.7,2,1,8,0,2

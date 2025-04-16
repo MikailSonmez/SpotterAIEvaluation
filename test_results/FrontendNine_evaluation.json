@@ -1,0 +1,33 @@
+{
+  "website": "FrontendNine",
+  "url": "https://frontend-nine-phi-12.vercel.app/",
+  "scores": {
+    "ui": 0,
+    "ux": 2,
+    "bugs": 5,
+    "total": 2.3333333333333335
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "Map output found",
+    "ELD logs found",
+    "Design lacks style consistency",
+    "Professional UI elements score: 0/2",
+    "Navigation elements found",
+    "Help elements found",
+    "No console errors detected"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\FrontendNine_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\FrontendNine_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\FrontendNine_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 3,
+  "eldAccuracy": 2,
+  "uxIntuitiveness": 2,
+  "uiAesthetics": 0,
+  "bugs": 5
+}

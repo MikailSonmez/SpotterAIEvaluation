@@ -1,0 +1,76 @@
+{
+  "website": "track-drivers.vercel.app",
+  "url": "https://track-drivers.vercel.app/",
+  "scores": {
+    "ui": 4,
+    "ux": 3,
+    "bugs": 2,
+    "eldAccuracy": 0,
+    "requiredFeatures": 2,
+    "total": 2.2
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "No map found in results",
+    "No ELD logs found in results",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Good color scheme with appropriate number of colors",
+    "Professional UI elements score: 0/4",
+    "No form validation found",
+    "No clear navigation found",
+    "Help elements found",
+    "Few or no visual glitches detected",
+    "Found 2 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\track-drivers.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\track-drivers.vercel.app_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\track-drivers.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 1,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 1,
+  "uiAesthetics": 0,
+  "bugs": 3,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 0
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 0,
+      "total": 2
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 2,
+      "layout": 0,
+      "responsiveDesign": 2,
+      "total": 4
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 2,
+      "predictability": 1,
+      "feedback": 0,
+      "total": 3
+    },
+    "bugs": {
+      "formValidation": 0,
+      "calculationErrors": 0,
+      "visualGlitches": 2,
+      "functionalProblems": 0,
+      "total": 2
+    }
+  }
+}

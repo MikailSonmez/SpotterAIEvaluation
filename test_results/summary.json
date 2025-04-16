@@ -1,0 +1,128 @@
+{
+  "totalWebsites": 30,
+  "averageScore": 1.8444444444444448,
+  "highestScore": 2.3333333333333335,
+  "lowestScore": 0.6666666666666666,
+  "websiteRanking": [
+    {
+      "name": "TripsFrontendDusky",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "EldLogAppVercel",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "FrontendNine",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "EldFrontendCobt",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "SpotterFrontGit",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "TripPlannerTau",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "EldClientVercel",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "WeHaulFrontend",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "TripPlannerYphs",
+      "score": 2.3333333333333335
+    },
+    {
+      "name": "SpotterLavandesn",
+      "score": 2
+    },
+    {
+      "name": "EldLogDuckDNS",
+      "score": 2
+    },
+    {
+      "name": "TrajectSpotter",
+      "score": 2
+    },
+    {
+      "name": "TripplannerMu",
+      "score": 2
+    },
+    {
+      "name": "TruckLogbook",
+      "score": 2
+    },
+    {
+      "name": "EldFrontendSand",
+      "score": 2
+    },
+    {
+      "name": "EldTripPlanner",
+      "score": 2
+    },
+    {
+      "name": "TripPlannerAppGray",
+      "score": 2
+    },
+    {
+      "name": "TrackingUserApp",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "TripAppYdoc",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "TripplannerRailway",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "SpotterAILogbook",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "TripPlanningLogging",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "RouteEldTracker",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "EldTripTracker",
+      "score": 1.6666666666666667
+    },
+    {
+      "name": "EldClientRender",
+      "score": 1.3333333333333333
+    },
+    {
+      "name": "TripLoggerJet",
+      "score": 1.3333333333333333
+    },
+    {
+      "name": "EldTripPlannerFrontend",
+      "score": 1.3333333333333333
+    },
+    {
+      "name": "DriverLogbook",
+      "score": 1
+    },
+    {
+      "name": "TrackDrivers",
+      "score": 1
+    },
+    {
+      "name": "EldGenerator",
+      "score": 0.6666666666666666
+    }
+  ]
+}

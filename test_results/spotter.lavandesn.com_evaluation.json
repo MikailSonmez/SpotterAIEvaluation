@@ -1,0 +1,77 @@
+{
+  "website": "spotter.lavandesn.com",
+  "url": "https://spotter.lavandesn.com/",
+  "scores": {
+    "ui": 4,
+    "ux": 3.5,
+    "bugs": 10,
+    "eldAccuracy": 1,
+    "requiredFeatures": 5,
+    "total": 4.7
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "Some input labels present",
+    "Map output found",
+    "ELD logs found",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Good color scheme with appropriate number of colors",
+    "Professional UI elements score: 0/4",
+    "Form validation present",
+    "No clear navigation found",
+    "No help elements found",
+    "Invalid input handling present",
+    "Few or no visual glitches detected",
+    "No console errors detected"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\spotter.lavandesn.com_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\spotter.lavandesn.com_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\spotter.lavandesn.com_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 2,
+  "eldAccuracy": 2,
+  "uxIntuitiveness": 1,
+  "uiAesthetics": 0,
+  "bugs": 5,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 1,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 1
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 2,
+      "stopRestInfo": 0,
+      "logSheets": 1,
+      "total": 5
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 2,
+      "layout": 0,
+      "responsiveDesign": 2,
+      "total": 4
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 1,
+      "predictability": 0.5,
+      "feedback": 2,
+      "total": 3.5
+    },
+    "bugs": {
+      "formValidation": 4,
+      "calculationErrors": 2,
+      "visualGlitches": 2,
+      "functionalProblems": 2,
+      "total": 10
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "WeHaulFrontend",
+  "url": "https://we-haul-frontend.vercel.app/trips",
+  "date": "2025-04-16T09:18:25.089Z",
+  "status": "complete",
+  "loadSuccess": true,
+  "interactiveElements": {
+    "buttons": 0,
+    "inputFields": 0,
+    "dropdowns": 0,
+    "checkboxes": 0,
+    "radioButtons": 0,
+    "links": 6
+  },
+  "accessibilityIssues": 0,
+  "formSubmission": false,
+  "navigationTested": true,
+  "modalsTested": false,
+  "loginTested": false,
+  "errors": [],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\WeHaulFrontend_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\WeHaulFrontend_final.png"
+  ],
+  "notes": [
+    "Website loaded successfully",
+    "Link 1 (WeHaul) navigated to: https://we-haul-frontend.vercel.app/",
+    "Link 2 (Get Started) could not be clicked",
+    "Link 2 (Get Started) clicked but no navigation occurred",
+    "Link 3 (View Trips) could not be clicked",
+    "Link 3 (View Trips) clicked but no navigation occurred",
+    "Link 4 (Get Started) could not be clicked",
+    "Link 4 (Get Started) clicked but no navigation occurred",
+    "Link 5 (View Trips) could not be clicked",
+    "Link 5 (View Trips) clicked but no navigation occurred",
+    "No submit buttons found",
+    "Navigation element 1 (WeHaul) clicked successfully",
+    "Could not click navigation element 2 (Get Started)",
+    "Navigation element 2 (Get Started) clicked successfully",
+    "Could not click navigation element 3 (View Trips)",
+    "Navigation element 3 (View Trips) clicked successfully",
+    "No login functionality detected"
+  ]
+}

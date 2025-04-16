@@ -1,0 +1,79 @@
+{
+  "website": "eldlog.duckdns.org",
+  "url": "http://eldlog.duckdns.org",
+  "scores": {
+    "ui": 5,
+    "ux": 4,
+    "bugs": 6,
+    "eldAccuracy": 4,
+    "requiredFeatures": 5,
+    "total": 4.8
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "Map output found",
+    "ELD logs found",
+    "HOS information present",
+    "Status changes displayed",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Too many colors used in design",
+    "Professional UI elements score: 2/4",
+    "Form validation present",
+    "No clear navigation found",
+    "No help elements found",
+    "Invalid input handling present",
+    "Some visual glitches detected",
+    "Found 1 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eldlog.duckdns.org_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eldlog.duckdns.org_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eldlog.duckdns.org_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 2,
+  "eldAccuracy": 2,
+  "uxIntuitiveness": 1,
+  "uiAesthetics": 2,
+  "bugs": 4,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 2,
+      "statusChanges": 2,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 4
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 2,
+      "stopRestInfo": 0,
+      "logSheets": 1,
+      "total": 5
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 1,
+      "layout": 2,
+      "responsiveDesign": 2,
+      "total": 5
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 1,
+      "predictability": 1,
+      "feedback": 2,
+      "total": 4
+    },
+    "bugs": {
+      "formValidation": 4,
+      "calculationErrors": 1,
+      "visualGlitches": 1,
+      "functionalProblems": 0,
+      "total": 6
+    }
+  }
+}

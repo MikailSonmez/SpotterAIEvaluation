@@ -1,0 +1,78 @@
+{
+  "website": "route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app",
+  "url": "https://route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app/",
+  "scores": {
+    "ui": 3,
+    "ux": 5,
+    "bugs": 2,
+    "eldAccuracy": 5,
+    "requiredFeatures": 5,
+    "total": 4
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "Map output found",
+    "ELD logs found",
+    "Status changes displayed",
+    "Breaks representation present",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Too many colors used in design",
+    "Professional UI elements score: 0/4",
+    "Form validation present",
+    "No clear navigation found",
+    "Help elements found",
+    "Many visual glitches detected",
+    "Found 2 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 2,
+  "eldAccuracy": 2,
+  "uxIntuitiveness": 2,
+  "uiAesthetics": 0,
+  "bugs": 3,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 1,
+      "statusChanges": 2,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 2,
+      "total": 5
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 2,
+      "stopRestInfo": 0,
+      "logSheets": 1,
+      "total": 5
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 1,
+      "layout": 0,
+      "responsiveDesign": 2,
+      "total": 3
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 2,
+      "predictability": 1,
+      "feedback": 2,
+      "total": 5
+    },
+    "bugs": {
+      "formValidation": 2,
+      "calculationErrors": 0,
+      "visualGlitches": 0,
+      "functionalProblems": 0,
+      "total": 2
+    }
+  }
+}

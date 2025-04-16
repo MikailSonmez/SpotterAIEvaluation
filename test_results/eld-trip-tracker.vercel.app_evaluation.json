@@ -1,0 +1,77 @@
+{
+  "website": "eld-trip-tracker.vercel.app",
+  "url": "https://eld-trip-tracker.vercel.app/",
+  "scores": {
+    "ui": 4,
+    "ux": 4,
+    "bugs": 7,
+    "eldAccuracy": 1,
+    "requiredFeatures": 5,
+    "total": 4.2
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Required input fields found",
+    "All required input labels present",
+    "Map output found",
+    "ELD logs found",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Too many colors used in design",
+    "Professional UI elements score: 1/4",
+    "Form validation present",
+    "No clear navigation found",
+    "No help elements found",
+    "Invalid input handling present",
+    "Few or no visual glitches detected",
+    "Found 1 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-trip-tracker.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-trip-tracker.vercel.app_results.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-trip-tracker.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 2,
+  "eldAccuracy": 2,
+  "uxIntuitiveness": 1,
+  "uiAesthetics": 1,
+  "bugs": 4,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 1,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 1
+    },
+    "requiredFeatures": {
+      "inputFields": 2,
+      "routeMap": 2,
+      "stopRestInfo": 0,
+      "logSheets": 1,
+      "total": 5
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 1,
+      "layout": 1,
+      "responsiveDesign": 2,
+      "total": 4
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 1,
+      "predictability": 1,
+      "feedback": 2,
+      "total": 4
+    },
+    "bugs": {
+      "formValidation": 4,
+      "calculationErrors": 1,
+      "visualGlitches": 2,
+      "functionalProblems": 0,
+      "total": 7
+    }
+  }
+}

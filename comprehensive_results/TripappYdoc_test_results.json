@@ -1,0 +1,32 @@
+{
+  "name": "TripappYdoc",
+  "url": "https://tripapp-ydoc.onrender.com",
+  "date": "2025-04-16T09:13:44.371Z",
+  "status": "complete",
+  "loadSuccess": true,
+  "interactiveElements": {
+    "buttons": 1,
+    "inputFields": 4,
+    "dropdowns": 0,
+    "checkboxes": 0,
+    "radioButtons": 0,
+    "links": 0
+  },
+  "accessibilityIssues": 0,
+  "formSubmission": false,
+  "navigationTested": false,
+  "modalsTested": false,
+  "loginTested": false,
+  "errors": [],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\TripappYdoc_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\TripappYdoc_final.png"
+  ],
+  "notes": [
+    "Website loaded successfully",
+    "Button 1 (Submit) clicked successfully",
+    "No submit buttons found",
+    "No navigation elements found",
+    "No login functionality detected"
+  ]
+}

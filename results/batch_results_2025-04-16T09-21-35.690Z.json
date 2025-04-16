@@ -1,0 +1,310 @@
+{
+  "startTime": "2025-04-16T09:21:35.690Z",
+  "endTime": "2025-04-16T09:27:37.193Z",
+  "totalWebsites": 30,
+  "successfulEvaluations": 30,
+  "failedEvaluations": 0,
+  "websiteScores": [
+    {
+      "name": "SpotterLavandesn",
+      "url": "https://spotter.lavandesn.com/",
+      "status": "complete",
+      "finalScore": 3.6,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "TripsFrontend",
+      "url": "https://trips-frontend-dusky.vercel.app",
+      "status": "complete",
+      "finalScore": 2.7,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 8,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldClient",
+      "url": "https://eld-client.onrender.com",
+      "status": "complete",
+      "finalScore": 2.6,
+      "uiScore": 2,
+      "uxScore": 0,
+      "bugsScore": 6,
+      "featuresScore": 4
+    },
+    {
+      "name": "EldLogApp",
+      "url": "https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.5,
+      "uiScore": 3,
+      "uxScore": 2,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "TrackingUserApp",
+      "url": "https://tracking-user-app.netlify.app/",
+      "status": "complete",
+      "finalScore": 3.5,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 7,
+      "featuresScore": 4
+    },
+    {
+      "name": "FrontendNine",
+      "url": "https://frontend-nine-phi-12.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.1,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 8,
+      "featuresScore": 0
+    },
+    {
+      "name": "TripappYdoc",
+      "url": "https://tripapp-ydoc.onrender.com",
+      "status": "complete",
+      "finalScore": 3.6,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "TripplannerFrontend",
+      "url": "https://tripplanner-frontend-production.up.railway.app/",
+      "status": "complete",
+      "finalScore": 3,
+      "uiScore": 3,
+      "uxScore": 0,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "SpotterAiLogbook",
+      "url": "https://spotter-ai-logbook-react-frontend.vercel.app",
+      "status": "complete",
+      "finalScore": 3.2,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "DriverLogbook",
+      "url": "https://driver-logbook.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.8,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "TripPlanningLogging",
+      "url": "https://trip-planning-logging.netlify.app/",
+      "status": "complete",
+      "finalScore": 2.9,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldLog",
+      "url": "http://eldlog.duckdns.org",
+      "status": "complete",
+      "finalScore": 3.3,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 9,
+      "featuresScore": 0
+    },
+    {
+      "name": "RouteELDTracker",
+      "url": "https://route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app/",
+      "status": "complete",
+      "finalScore": 4.5,
+      "uiScore": 2,
+      "uxScore": 2,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "TrajectSpotter",
+      "url": "https://trajectspotterfrontend.onrender.com",
+      "status": "complete",
+      "finalScore": 4.1,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldFrontendCobt",
+      "url": "https://eld-frontend-cobt.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.3,
+      "uiScore": 2,
+      "uxScore": 2,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "TripplannerMu",
+      "url": "https://tripplanner-mu.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.6,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "TripLogger",
+      "url": "https://trip-logger-jet.vercel.app",
+      "status": "complete",
+      "finalScore": 2.5,
+      "uiScore": 1,
+      "uxScore": 1,
+      "bugsScore": 8,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldTripPlanner",
+      "url": "https://eld-trip-planner-frontend.vercel.app/",
+      "status": "complete",
+      "finalScore": 2.8,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 9,
+      "featuresScore": 2
+    },
+    {
+      "name": "SpotterFront",
+      "url": "https://spotter-front-git-master-pbnjaays-projects.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.5,
+      "uiScore": 3,
+      "uxScore": 2,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "TrackDrivers",
+      "url": "https://track-drivers.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.5,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 4
+    },
+    {
+      "name": "TruckLogbook",
+      "url": "https://truck-logbook.vercel.app/",
+      "status": "complete",
+      "finalScore": 2.9,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 8,
+      "featuresScore": 2
+    },
+    {
+      "name": "TripPlannerFrontend",
+      "url": "https://trip-planner-frontend-tau.vercel.app",
+      "status": "complete",
+      "finalScore": 3.4,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "EldClientVercel",
+      "url": "https://eld-client.vercel.app",
+      "status": "complete",
+      "finalScore": 2.8,
+      "uiScore": 2,
+      "uxScore": 0,
+      "bugsScore": 8,
+      "featuresScore": 0
+    },
+    {
+      "name": "WeHaulFrontend",
+      "url": "https://we-haul-frontend.vercel.app/trips",
+      "status": "complete",
+      "finalScore": 2.4,
+      "uiScore": 2,
+      "uxScore": 0,
+      "bugsScore": 8,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldGenerator",
+      "url": "https://eld-generator.netlify.app",
+      "status": "complete",
+      "finalScore": 3.8,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "TripPlannerYphs",
+      "url": "https://trip-planner-yphs.onrender.com/",
+      "status": "complete",
+      "finalScore": 2.4,
+      "uiScore": 3,
+      "uxScore": 0,
+      "bugsScore": 9,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldFrontendSand",
+      "url": "https://eld-frontend-sand.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.3,
+      "uiScore": 3,
+      "uxScore": 1,
+      "bugsScore": 10,
+      "featuresScore": 0
+    },
+    {
+      "name": "EldTripTracker",
+      "url": "https://eld-trip-tracker.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.8,
+      "uiScore": 3,
+      "uxScore": 2,
+      "bugsScore": 10,
+      "featuresScore": 2
+    },
+    {
+      "name": "EldTripPlannerApp",
+      "url": "https://eld-trip-planner.vercel.app/",
+      "status": "complete",
+      "finalScore": 3.3,
+      "uiScore": 2,
+      "uxScore": 1,
+      "bugsScore": 8,
+      "featuresScore": 4
+    },
+    {
+      "name": "TripPlannerAppGray",
+      "url": "https://trip-planner-app-gray.vercel.app/",
+      "status": "complete",
+      "finalScore": 2.6,
+      "uiScore": 3,
+      "uxScore": 0,
+      "bugsScore": 8,
+      "featuresScore": 0
+    }
+  ],
+  "totalDuration": 361.503
+}

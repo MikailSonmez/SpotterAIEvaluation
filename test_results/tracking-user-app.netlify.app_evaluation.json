@@ -1,0 +1,75 @@
+{
+  "website": "tracking-user-app.netlify.app",
+  "url": "https://tracking-user-app.netlify.app/",
+  "scores": {
+    "ui": 3,
+    "ux": 4,
+    "bugs": 7,
+    "eldAccuracy": 0,
+    "requiredFeatures": 0,
+    "total": 2.8
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Missing most required input fields",
+    "All required input labels present",
+    "Insufficient input fields to complete form",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Too many colors used in design",
+    "Professional UI elements score: 0/4",
+    "Form validation present",
+    "No clear navigation found",
+    "Help elements found",
+    "Invalid input handling present",
+    "Few or no visual glitches detected",
+    "Found 1 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\tracking-user-app.netlify.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\tracking-user-app.netlify.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 0,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 2,
+  "uiAesthetics": 0,
+  "bugs": 4,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 0
+    },
+    "requiredFeatures": {
+      "inputFields": 0,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 0,
+      "total": 0
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 1,
+      "layout": 0,
+      "responsiveDesign": 2,
+      "total": 3
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 1,
+      "predictability": 1,
+      "feedback": 2,
+      "total": 4
+    },
+    "bugs": {
+      "formValidation": 4,
+      "calculationErrors": 1,
+      "visualGlitches": 2,
+      "functionalProblems": 0,
+      "total": 7
+    }
+  }
+}

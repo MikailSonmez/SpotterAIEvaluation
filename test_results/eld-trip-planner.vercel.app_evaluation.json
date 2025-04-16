@@ -1,0 +1,74 @@
+{
+  "website": "eld-trip-planner.vercel.app",
+  "url": "https://eld-trip-planner.vercel.app/",
+  "scores": {
+    "ui": 4,
+    "ux": 4,
+    "bugs": 5,
+    "eldAccuracy": 0,
+    "requiredFeatures": 0,
+    "total": 2.6
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Missing most required input fields",
+    "Most input labels missing or unclear",
+    "Insufficient input fields to complete form",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Too many colors used in design",
+    "Professional UI elements score: 1/4",
+    "Form validation present",
+    "Navigation elements found",
+    "No help elements found",
+    "Few or no visual glitches detected",
+    "Found 1 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-trip-planner.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\eld-trip-planner.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 0,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 2,
+  "uiAesthetics": 1,
+  "bugs": 4,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 0
+    },
+    "requiredFeatures": {
+      "inputFields": 0,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 0,
+      "total": 0
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 1,
+      "layout": 1,
+      "responsiveDesign": 2,
+      "total": 4
+    },
+    "uxIntuitiveness": {
+      "navigation": 2,
+      "workflow": 0,
+      "predictability": 0,
+      "feedback": 2,
+      "total": 4
+    },
+    "bugs": {
+      "formValidation": 2,
+      "calculationErrors": 1,
+      "visualGlitches": 2,
+      "functionalProblems": 0,
+      "total": 5
+    }
+  }
+}

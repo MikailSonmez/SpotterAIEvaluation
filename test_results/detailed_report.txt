@@ -1,0 +1,140 @@
+=== ELD WEBSITES EVALUATION DETAILED REPORT ===
+
+Date: 2025-04-16T08:55:58.350Z
+Total websites evaluated: 34
+
+=== TOP 10 WEBSITES OVERALL ===
+
+1. eldlog.duckdns.org - Total Score: 4.80/8
+   URL: http://eldlog.duckdns.org
+   UI Aesthetics: 5.00/8
+   UX Intuitiveness: 4.00/8
+   Bug-Free Score: 6.00/8
+   ELD Accuracy: 4.00/8
+   Required Features: 5.00/8
+
+2. spotter-front-git-master-pbnjaays-projects.vercel.app - Total Score: 4.80/8
+   URL: https://spotter-front-git-master-pbnjaays-projects.vercel.app/
+   UI Aesthetics: 3.00/8
+   UX Intuitiveness: 5.00/8
+   Bug-Free Score: 10.00/8
+   ELD Accuracy: 1.00/8
+   Required Features: 5.00/8
+
+3. trip-planner-frontend-tau.vercel.app - Total Score: 4.80/8
+   URL: https://trip-planner-frontend-tau.vercel.app
+   UI Aesthetics: 3.00/8
+   UX Intuitiveness: 5.00/8
+   Bug-Free Score: 8.00/8
+   ELD Accuracy: 3.00/8
+   Required Features: 5.00/8
+
+4. spotter.lavandesn.com - Total Score: 4.70/8
+   URL: https://spotter.lavandesn.com/
+   UI Aesthetics: 4.00/8
+   UX Intuitiveness: 3.50/8
+   Bug-Free Score: 10.00/8
+   ELD Accuracy: 1.00/8
+   Required Features: 5.00/8
+
+5. frontend-nine-phi-12.vercel.app - Total Score: 4.60/8
+   URL: https://frontend-nine-phi-12.vercel.app/
+   UI Aesthetics: 4.00/8
+   UX Intuitiveness: 5.00/8
+   Bug-Free Score: 4.00/8
+   ELD Accuracy: 3.00/8
+   Required Features: 7.00/8
+
+6. eld-generator.netlify.app - Total Score: 4.50/8
+   URL: https://eld-generator.netlify.app
+   UI Aesthetics: 4.00/8
+   UX Intuitiveness: 4.50/8
+   Bug-Free Score: 9.00/8
+   ELD Accuracy: 2.00/8
+   Required Features: 3.00/8
+
+7. trajectspotterfrontend.onrender.com - Total Score: 4.40/8
+   URL: https://trajectspotterfrontend.onrender.com
+   UI Aesthetics: 4.00/8
+   UX Intuitiveness: 4.00/8
+   Bug-Free Score: 10.00/8
+   ELD Accuracy: 0.00/8
+   Required Features: 4.00/8
+
+8. eld-trip-tracker.vercel.app - Total Score: 4.20/8
+   URL: https://eld-trip-tracker.vercel.app/
+   UI Aesthetics: 4.00/8
+   UX Intuitiveness: 4.00/8
+   Bug-Free Score: 7.00/8
+   ELD Accuracy: 1.00/8
+   Required Features: 5.00/8
+
+9. route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app - Total Score: 4.00/8
+   URL: https://route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app/
+   UI Aesthetics: 3.00/8
+   UX Intuitiveness: 5.00/8
+   Bug-Free Score: 2.00/8
+   ELD Accuracy: 5.00/8
+   Required Features: 5.00/8
+
+10. eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app - Total Score: 3.80/8
+   URL: https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/
+   UI Aesthetics: 4.00/8
+   UX Intuitiveness: 4.00/8
+   Bug-Free Score: 10.00/8
+   ELD Accuracy: 0.00/8
+   Required Features: 1.00/8
+
+=== CATEGORY WINNERS ===
+
+Best UI Design: eld-frontend-sand.vercel.app (6.00/8)
+Best UX Design: spotter-front-git-master-pbnjaays-projects.vercel.app (5.00/8)
+Most Bug-Free: spotter-front-git-master-pbnjaays-projects.vercel.app (10.00/8)
+Best ELD Accuracy: route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app (5.00/8)
+Most Complete Features: frontend-nine-phi-12.vercel.app (7.00/8)
+
+=== AVERAGE SCORES ACROSS ALL WEBSITES ===
+
+Overall Average: 3.04/8
+UI Aesthetics Average: 3.76/8
+UX Intuitiveness Average: 2.71/8
+Bug-Free Score Average: 5.53/8
+ELD Accuracy Average: 0.74/8
+Required Features Average: 2.03/8
+
+=== COMPLETE WEBSITE RANKING ===
+
+1. eldlog.duckdns.org (4.80/8)
+2. spotter-front-git-master-pbnjaays-projects.vercel.app (4.80/8)
+3. trip-planner-frontend-tau.vercel.app (4.80/8)
+4. spotter.lavandesn.com (4.70/8)
+5. frontend-nine-phi-12.vercel.app (4.60/8)
+6. eld-generator.netlify.app (4.50/8)
+7. trajectspotterfrontend.onrender.com (4.40/8)
+8. eld-trip-tracker.vercel.app (4.20/8)
+9. route-eld-tracker-git-main-ilhams-projects-9cb20472.vercel.app (4.00/8)
+10. eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app (3.80/8)
+11. tripplanner-mu.vercel.app (3.60/8)
+12. eld-frontend-sand.vercel.app (3.40/8)
+13. eld-frontend-cobt.vercel.app (3.20/8)
+14. tripapp-ydoc.onrender.com (3.20/8)
+15. driver-logbook.vercel.app (3.00/8)
+16. trip-planning-logging.netlify.app (3.00/8)
+17. spotter-ai-logbook-react-frontend.vercel.app (2.80/8)
+18. tracking-user-app.netlify.app (2.80/8)
+19. trips-frontend-dusky.vercel.app (2.80/8)
+20. we-haul-frontend.vercel.app_trips (2.80/8)
+21. eld-trip-planner.vercel.app (2.60/8)
+22. trip-planner-app-gray.vercel.app (2.60/8)
+23. truck-logbook.vercel.app (2.60/8)
+24. eld-client.vercel.app (2.40/8)
+25. eld-trip-planner-frontend.vercel.app (2.40/8)
+26. TripsFrontend (2.33/8)
+27. track-drivers.vercel.app (2.20/8)
+28. EldGenerator (2.00/8)
+29. SpotterLavandesn (2.00/8)
+30. trip-logger-jet.vercel.app (1.80/8)
+31. tripplanner-frontend-production.up.railway.app (1.80/8)
+32. eld-client.onrender.com (1.20/8)
+33. trip-planner-yphs.onrender.com (1.20/8)
+34. DriverLogbook (1.00/8)

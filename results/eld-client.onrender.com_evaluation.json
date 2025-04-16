@@ -1,0 +1,50 @@
+{
+  "website": "eld-client.onrender.com",
+  "url": "https://eld-client.onrender.com",
+  "status": "load_failed",
+  "finalScore": 0,
+  "error": "Failed to load page: page.waitForLoadState: Timeout 30000ms exceeded.",
+  "notes": [
+    "Failed to load page: page.waitForLoadState: Timeout 30000ms exceeded."
+  ],
+  "screenshots": [],
+  "scores": {
+    "eldAccuracy": 0,
+    "requiredFeatures": 0,
+    "uiAesthetics": 0,
+    "uxIntuitiveness": 0,
+    "bugs": 0
+  },
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosVisualization": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0
+    },
+    "requiredFeatures": {
+      "locationInputs": 0,
+      "hoursInputs": 0,
+      "routeMap": 0,
+      "eldLogs": 0
+    },
+    "uiAesthetics": {
+      "professionalDesign": 0,
+      "colorScheme": 0,
+      "layout": 0,
+      "responsiveDesign": 0
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "formLabels": 0,
+      "userFeedback": 0,
+      "accessibility": 0
+    },
+    "bugs": {
+      "consoleErrors": 0,
+      "functionalIssues": 0,
+      "formValidation": 0,
+      "visualGlitches": 0
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "website": "tripplanner-mu.vercel.app",
+  "url": "https://tripplanner-mu.vercel.app/",
+  "scores": {
+    "ui": 4,
+    "ux": 3,
+    "bugs": 10,
+    "eldAccuracy": 0,
+    "requiredFeatures": 1,
+    "total": 3.6
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Some required input fields found",
+    "All required input labels present",
+    "Insufficient input fields to complete form",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Good color scheme with appropriate number of colors",
+    "Professional UI elements score: 0/4",
+    "Form validation present",
+    "No clear navigation found",
+    "No help elements found",
+    "Invalid input handling present",
+    "Few or no visual glitches detected",
+    "No console errors detected"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\tripplanner-mu.vercel.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\tripplanner-mu.vercel.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 0.5,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 1,
+  "uiAesthetics": 0,
+  "bugs": 5,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 0
+    },
+    "requiredFeatures": {
+      "inputFields": 1,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 0,
+      "total": 1
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 2,
+      "layout": 0,
+      "responsiveDesign": 2,
+      "total": 4
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 0,
+      "predictability": 1,
+      "feedback": 2,
+      "total": 3
+    },
+    "bugs": {
+      "formValidation": 4,
+      "calculationErrors": 2,
+      "visualGlitches": 2,
+      "functionalProblems": 2,
+      "total": 10
+    }
+  }
+}

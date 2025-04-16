@@ -1,0 +1,37 @@
+{
+  "name": "TruckLogbook",
+  "url": "https://truck-logbook.vercel.app/",
+  "date": "2025-04-16T09:17:01.307Z",
+  "status": "complete",
+  "loadSuccess": true,
+  "interactiveElements": {
+    "buttons": 0,
+    "inputFields": 0,
+    "dropdowns": 0,
+    "checkboxes": 0,
+    "radioButtons": 0,
+    "links": 4
+  },
+  "accessibilityIssues": 0,
+  "formSubmission": false,
+  "navigationTested": true,
+  "modalsTested": false,
+  "loginTested": false,
+  "errors": [],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\TruckLogbook_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\TruckLogbook_final.png"
+  ],
+  "notes": [
+    "Website loaded successfully",
+    "Link 1 (Home) clicked but no navigation occurred",
+    "Link 2 (Plan Trip) navigated to: https://truck-logbook.vercel.app/plan-trip",
+    "Link 3 (Trip Lists) could not be clicked",
+    "Link 3 (Trip Lists) clicked but no navigation occurred",
+    "Link 4 (Start Planning) could not be clicked",
+    "Link 4 (Start Planning) clicked but no navigation occurred",
+    "No submit buttons found",
+    "Navigation element 1 (HomePlan TripTrip Lists) clicked successfully",
+    "No login functionality detected"
+  ]
+}

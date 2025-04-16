@@ -1,0 +1,40 @@
+{
+  "name": "EldLogApp",
+  "url": "https://eld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app/",
+  "date": "2025-04-16T09:12:27.563Z",
+  "status": "complete",
+  "loadSuccess": true,
+  "interactiveElements": {
+    "buttons": 3,
+    "inputFields": 4,
+    "dropdowns": 0,
+    "checkboxes": 0,
+    "radioButtons": 0,
+    "links": 4
+  },
+  "accessibilityIssues": 0,
+  "formSubmission": false,
+  "navigationTested": false,
+  "modalsTested": false,
+  "loginTested": false,
+  "errors": [],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\EldLogApp_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\EldLogApp_final.png"
+  ],
+  "notes": [
+    "Website loaded successfully",
+    "Button 1 (Toggle attribution) could not be clicked",
+    "Button 1 (Toggle attribution) clicked successfully",
+    "Button 2 (☰) clicked successfully",
+    "Button 3 (Show Driving Logs) could not be clicked",
+    "Button 3 (Show Driving Logs) clicked successfully",
+    "Link 1 (© Mapbox) opened new tab: https://www.mapbox.com/about/maps",
+    "Link 2 (© OpenStreetMap) opened new tab: https://www.openstreetmap.org/copyright/",
+    "Link 3 (Improve this map) opened new tab: https://labs.mapbox.com/contribute/#/?owner=mapbox&id=streets-v11&access_token=pk.eyJ1IjoiZ29rZXluIiwiYSI6ImNtN3kzc3hmbzA0MDEycXM1ajM3cnZiZDcifQ.UzQmL2mATngTDUTgs1vNDg&utm_source=https%3A%2F%2Feld-log-app-git-main-mert-gokhan-donmezs-projects.vercel.app%2F&utm_medium=attribution_link&utm_campaign=referrer&l=10%2F41.0082%2F28.9784",
+    "Link 4 (Mapbox homepage) opened new tab: https://www.mapbox.com/",
+    "No submit buttons found",
+    "No navigation elements found",
+    "No login functionality detected"
+  ]
+}

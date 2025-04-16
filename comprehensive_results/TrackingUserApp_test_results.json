@@ -1,0 +1,44 @@
+{
+  "name": "TrackingUserApp",
+  "url": "https://tracking-user-app.netlify.app/",
+  "date": "2025-04-16T09:12:43.290Z",
+  "status": "complete",
+  "loadSuccess": true,
+  "interactiveElements": {
+    "buttons": 13,
+    "inputFields": 1,
+    "dropdowns": 0,
+    "checkboxes": 0,
+    "radioButtons": 2,
+    "links": 4
+  },
+  "accessibilityIssues": 0,
+  "formSubmission": false,
+  "navigationTested": false,
+  "modalsTested": false,
+  "loginTested": false,
+  "errors": [],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\TrackingUserApp_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\comprehensive_results\\TrackingUserApp_final.png"
+  ],
+  "notes": [
+    "Website loaded successfully",
+    "Button 1 (Unknown button) clicked successfully",
+    "Button 2 (Add Trip) clicked successfully",
+    "Button 3 (Search Locations) clicked successfully",
+    "Button 4 (Find Drivers) clicked successfully",
+    "Button 5 (Recent Trips) clicked successfully",
+    "Button 6 (Routes History) clicked successfully",
+    "Button 7 (Available Routesss) clicked successfully",
+    "Button 8 (Fuel Stops) clicked successfully",
+    "Button 9 (Water Alerts) clicked successfully",
+    "Button 10 (Unknown button) clicked successfully",
+    "Link 1 (×) clicked but no navigation occurred",
+    "Link 2 (Leaflet) navigated to: https://leafletjs.com/",
+    "Text input 1 filled with: Test input",
+    "No submit buttons found",
+    "No navigation elements found",
+    "No login functionality detected"
+  ]
+}

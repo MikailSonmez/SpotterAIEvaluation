@@ -1,0 +1,73 @@
+{
+  "website": "tripplanner-frontend-production.up.railway.app",
+  "url": "https://tripplanner-frontend-production.up.railway.app/",
+  "scores": {
+    "ui": 6,
+    "ux": 0,
+    "bugs": 3,
+    "eldAccuracy": 0,
+    "requiredFeatures": 0,
+    "total": 1.8
+  },
+  "notes": [
+    "Website loaded successfully",
+    "Missing most required input fields",
+    "Most input labels missing or unclear",
+    "Insufficient input fields to complete form",
+    "Mobile responsive design detected",
+    "Design lacks style consistency",
+    "Good color scheme with appropriate number of colors",
+    "Professional UI elements score: 2/4",
+    "No clear navigation found",
+    "No help elements found",
+    "Few or no visual glitches detected",
+    "Found 1 console errors"
+  ],
+  "screenshots": [
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\tripplanner-frontend-production.up.railway.app_initial.png",
+    "C:\\Users\\mikai\\SpotterAI\\test_results\\tripplanner-frontend-production.up.railway.app_mobile.png"
+  ],
+  "status": "loaded",
+  "requiredFeatures": 0,
+  "eldAccuracy": 0,
+  "uxIntuitiveness": 0,
+  "uiAesthetics": 2,
+  "bugs": 4,
+  "detailedScores": {
+    "eldAccuracy": {
+      "hosRepresentation": 0,
+      "statusChanges": 0,
+      "driveTimeCalculation": 0,
+      "breaksRepresentation": 0,
+      "total": 0
+    },
+    "requiredFeatures": {
+      "inputFields": 0,
+      "routeMap": 0,
+      "stopRestInfo": 0,
+      "logSheets": 0,
+      "total": 0
+    },
+    "uiAesthetics": {
+      "visualDesign": 0,
+      "colorScheme": 2,
+      "layout": 2,
+      "responsiveDesign": 2,
+      "total": 6
+    },
+    "uxIntuitiveness": {
+      "navigation": 0,
+      "workflow": 0,
+      "predictability": 0,
+      "feedback": 0,
+      "total": 0
+    },
+    "bugs": {
+      "formValidation": 0,
+      "calculationErrors": 1,
+      "visualGlitches": 2,
+      "functionalProblems": 0,
+      "total": 3
+    }
+  }
+}
